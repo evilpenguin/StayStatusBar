@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = StayStatusBaPreferences;
+	cell = PSLinkCell;
+	detail = StayStatusBar;
+	icon = StayStatusBaPreferences.png;
+	isController = 1;
+	label = StayStatusBar;
+    };
+}

@@ -1,0 +1,9 @@
+Package: com.understruction.staystatusbar
+Name: StayStatusBar
+Depends: mobilesubstrate
+Version: 0.4.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: EvilPenguin|
+Author: EvilPenguin|
+Section: Tweaks
